@@ -1,0 +1,4 @@
+1,apple,100.0
+2,orange,1000.0
+3,durian,10000.0
+4,chocolate,12400.0
